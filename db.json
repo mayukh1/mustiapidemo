@@ -13,5 +13,14 @@
       "latitude":20.03,"longitude":20.03}],
 
   "storeId": {"id": "S001", "storeName": "storeName", "noOfEmployees": "100", "location": "string","storeDescription":"Tiger Shop",
-    "latitude":20.03,"longitude":20.03}
+    "latitude":20.03,"longitude":20.03},
+	
+  "userId":[{ "firstName":"Eshan" ,"lastName":"Mallick","email":"xyz@gmail.com","phoneNumber":"+91-1234567890","employmentType":"Full Time"},
+  { "firstName":"Mayukh" ,"lastName":"Mallick","email":"zyx@gmail.com","phoneNumber":"+91-1234567890","employmentType":"Full Time"}],
+  
+   "country":[{"id": 1,"countryName": "Armenia","countryCode": "AM","isdCode": "374","isActive": true},
+			{"id": 2,"countryName": "Australia","countryCode": "AU","isdCode": "61","isActive": true},
+            {"id": 3,"countryName": "Bangladesh","countryCode": "BD","isdCode": "880","isActive": true}]
+
 }
+
