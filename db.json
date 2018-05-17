@@ -2,11 +2,11 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "listStores":[{"id": "S001", "storeName": "storeName", "noOfEmployees": "100", "location": "string","storeDescription":"Tiger Shop",
-        "latitude":20.03,"longitude":20.03,"isActive":true,
+  "listStores":[{"id": "S001", "storeName": "Teststore","displayName":"S001 Teststore1", "noOfEmployees": "100", "location": "string","storeDescription":"Tiger Shop",
+        "latitude":20.03,"longitude":20.03,"isActive":true,"city":"Oslo","country":"Norway","street":"oslo street 14/a",
 	     "isDeleted":false,"createdAt":1522129099463,"openingDt":1522129099463},
-    {"storeId": "S002", "storeName": "storeName1", "noOfEmployees": "200", "location": "Kormangala","storeDescription":"Animal Shop",
-      "latitude":20.03,"longitude":20.03,"isActive":true,
+    {"storeId": "S002", "storeName": "Teststore2","displayName":"S002 Teststore2","noOfEmployees": "200", "location": "Kormangala","storeDescription":"Animal Shop",
+      "latitude":20.03,"longitude":20.03,"isActive":true,"city":"Oslo","country":"Norway","street":"oslo street 14/a",
 	     "isDeleted":false,"createdAt":1522129099463,"openingDt":1522129099463}],
 
   "storeId": {"id": "S001", "storeName": "storeName", "noOfEmployees": "100", "location": "string","storeDescription":"Tiger Shop",
